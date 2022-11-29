@@ -30,7 +30,5 @@ Criação da minha primeira página em HTML com algumas tags básicas
         <h2 id="Listas">Listas Ordenadas e Não Ordenadas</h2>
         <p> No HTML podemos criar dois tipos de listas, as ordenadas e as não ordenadas. Lista ordenadas são usadas quando queremos listar conteúdos que são sequenciais e segue uma ordem numérica, alfabética ou de outro requisito. Já as listas não ordenadas são usadas para listar quaisquer outros conteúdos que não exijam necessariamente uma ordenação.</p>
         <p> As listas ordenadas são representadas pela tag "ol" e as listas não ordenadas são reprentadas pela tag "ul". <i>Em ambos os casos usamos a tag "li" em conjunto que significa que estaremos listando algo.</i></p> 
-    </p>
-          
     </body>
 </html>
